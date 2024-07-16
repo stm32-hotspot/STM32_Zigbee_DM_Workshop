@@ -7,6 +7,7 @@ showcasing different real-world use case scenarios. The configurations are set i
 You can find PDF slideset with demo description in folder pdf_slides or you can watch education video which demonstrates the functinality on ST youtube channel (recording of Zigbee Demo Workshop):
 
 [Zigbee demo WS](https://youtu.be/8X_jKmInjCI)
+
 [Zigbee demo WS Q&A](https://youtu.be/xn5pyrNBuGY)
 
 ## Boards Needed
